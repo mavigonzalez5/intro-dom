@@ -1,3 +1,5 @@
+
+
 function change() {
-    // your code goes here
+    document.querySelector("#titleIdName").style.color = "blue";
 }
